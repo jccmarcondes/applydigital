@@ -1,4 +1,4 @@
-# Hsckers News Posts App ✔️
+# Hackers News Posts App ✔️
 
 #### Hsckers News Posts App 📱 built as a challenge to Apply Digital company and shows the use of modern android architecture component with MVVM Architecture 🏗
 
