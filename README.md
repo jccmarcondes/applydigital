@@ -1,6 +1,6 @@
 # Hackers News Posts App ✔️
 
-#### Hsckers News Posts App 📱 built as a challenge to Apply Digital company and shows the use of modern android architecture component with MVVM Architecture 🏗
+#### Hackers News Posts App 📱 built as a challenge to Apply Digital company and shows the use of modern android architecture component with MVVM Architecture 🏗
 
 The App is using the [Hackers News Api] to searching latest posts from the site Hackers News.
 
