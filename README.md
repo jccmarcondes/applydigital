@@ -19,7 +19,7 @@ The App is using the [Hackers News Api] to searching latest posts from the site 
    [Kotlin]: <https://kotlinlang.org>
    [Coroutines]: <https://kotlinlang.org/docs/coroutines-overview.html>
    [MVVM (Model View View-Model)]: <https://developer.android.com/jetpack/guide#recommended-app-arch>
-   [Hackers News Api]: <https://hn.algolia.com/api/v1/>
+   [Hackers News Api]: <https://hn.algolia.com>
    [Room]: <https://developer.android.com/training/data-storage/room/>
    [Compose]: <https://developer.android.com/develop/ui/compose/documentation>
    
